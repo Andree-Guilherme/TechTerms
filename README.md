@@ -4,6 +4,20 @@ Este repositório serve como **guia rápido de termos** usados em banco de dados
 
 ---
 
+## 💻 Programação e Desenvolvimento
+
+| Termo | Descrição |
+|-------|-----------|
+| **Mock** | Objeto simulado para testar código de forma isolada. |
+| **Parsear** | Converter dados de um formato para outro. |
+| **Casting** | Conversão de um tipo de dado para outro compatível. |
+| **Statement** | Instrução ou comando que indica o que o código deve executar. |
+| **Emmet** | Plugin/ferramenta para escrever HTML e CSS mais rápido. |
+| **Issue** | Ferramenta para registrar e acompanhar problemas ou tarefas de um projeto. |
+| **Fork** | Criação de uma cópia independente de um repositório existente. |
+
+---
+
 ## 📊 Termos de Banco de Dados e SQL
 
 | Termo | Descrição |
@@ -19,17 +33,39 @@ Este repositório serve como **guia rápido de termos** usados em banco de dados
 
 ---
 
-## 💻 Programação e Desenvolvimento
+## 🗂️ Caminhos de Arquivos
 
 | Termo | Descrição |
 |-------|-----------|
-| **Mock** | Objeto simulado para testar código de forma isolada. |
-| **Parsear** | Converter dados de um formato para outro. |
-| **Casting** | Conversão de um tipo de dado para outro compatível. |
-| **Statement** | Instrução ou comando que indica o que o código deve executar. |
-| **Emmet** | Plugin/ferramenta para escrever HTML e CSS mais rápido. |
-| **Issue** | Ferramenta para registrar e acompanhar problemas ou tarefas de um projeto. |
-| **Fork** | Criação de uma cópia independente de um repositório existente. |
+| **File path** | Caminho do arquivo. |
+| **Directory path** | Caminho de pasta/diretório. |
+| **Absolute path** | Caminho completo, incluindo todas as pastas (ex.: `C:\curso\GameControll\game.bson`). |
+| **Relative path** | Caminho relativo à pasta atual (ex.: `.\GameControll\game.bson`). |
+| **File system path** | Caminho no sistema de arquivos. |
+
+---
+
+## 📄 Extensões de Arquivos
+
+| Extensão | Tipo | Descrição |
+|----------|---------------------------|-----------|
+| **.pdf** | Portable Document Format | Documento em formato PDF. |
+| **.txt** | Text File | Arquivo de texto simples. |
+| **.csv** | Comma-Separated Values | Arquivo de valores separados por vírgula, usado para planilhas e dados tabulares. |
+| **.json** | JavaScript Object Notation | Arquivo de dados em formato JSON. |
+| **.xml** | Extensible Markup Language | Arquivo de dados em formato XML. |
+| **.bson** | Binary JSON | Arquivo binário usado pelo MongoDB para armazenar dados. |
+| **.exe** | Executable File | Arquivo executável do Windows. |
+| **.jpg / .jpeg** | Joint Photographic Experts Group | Arquivo de imagem no formato JPEG. |
+| **.png** | Portable Network Graphics | Arquivo de imagem no formato PNG, suporta transparência. |
+| **.gif** | Graphics Interchange Format | Arquivo de imagem animada ou estática em formato GIF. |
+| **.mp3** | MPEG-1 Audio Layer III | Arquivo de áudio em formato MP3. |
+| **.wav** | Waveform Audio File Format | Arquivo de áudio em formato WAV, alta qualidade. |
+| **.mp4** | MPEG-4 Part 14 | Arquivo de vídeo em formato MP4. |
+| **.mov** | QuickTime File Format | Arquivo de vídeo em formato MOV, usado em Mac/QuickTime. |
+| **.zip** | ZIP Archive | Arquivo compactado em formato ZIP. |
+| **.rar** | RAR Archive | Arquivo compactado em formato RAR. |
+| **.tar / .gz** | Tape Archive / Gzip | Arquivo compactado em Linux/Unix. |
 
 ---
 
