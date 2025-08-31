@@ -39,8 +39,8 @@ Este repositório serve como **guia rápido de termos** usados em banco de dados
 |-------|-----------|
 | **File path** | Caminho do arquivo. |
 | **Directory path** | Caminho de pasta/diretório. |
-| **Absolute path** | Caminho completo, incluindo todas as pastas (ex.: `C:\curso\GameControll\game.bson`). |
-| **Relative path** | Caminho relativo à pasta atual (ex.: `.\GameControll\game.bson`). |
+| **Absolute path** | Caminho completo, incluindo todas as pastas (ex.: `C:\<directory_path>\file_path`). |
+| **Relative path** | Caminho relativo à pasta atual (ex.: `.\<directory_path>\file_path`). |
 | **File system path** | Caminho no sistema de arquivos. |
 
 ---
